@@ -1,10 +1,10 @@
 # Hi there, I'm Noah! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
-I'm a minecraft network owner living in Germany.
+I'm a entrepreneur of sorts and hobby software developer living in Germany.
 
 ### :sparkles: Skills:
 <p align="left">
-html, css, php
+html, css, php, java
 </p>
 
 ### :hammer: Recent projects:
