@@ -11,7 +11,7 @@ html, css, php, java
 - &nbsp;StyyCraft **-** StyyCraft is a minecraft network. With unique systems + Bedrock & Java support we offer a unique gaming experience.
 
 ### ☎️ Contact:
-- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** StyyDev#1882 / https://discord.gg/gWVsT9qu9G
+- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** cuziamnoah#1029 / https://cuziamnoah.eu/discord
 
 ### :bar_chart: GitHub stats:
 <p align="center">
