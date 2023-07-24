@@ -4,18 +4,18 @@ I'm a entrepreneur of sorts and hobby software developer living in Germany.
 
 ### :sparkles: Skills:
 <p align="left">
-html, css, php, java
+Web Design, HTML, CSS, JS, CMS Web Design, Frontend-Design
 </p>
 
 ### :hammer: Recent projects:
 - &nbsp;StyyCraft **-** StyyCraft is a minecraft network. With unique systems + Bedrock & Java support we offer a unique gaming experience.
 
 ### ☎️ Contact:
-- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** cuziamnoah#1029 / https://cuziamnoah.eu/discord
+-  Discord **-** @1trixa / https://1trixa.de/discord
 
 ### :bar_chart: GitHub stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cuziamnoah&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1trixa&show_icons=true&theme=radical" />
 </p>
 
 
