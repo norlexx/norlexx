@@ -1,6 +1,6 @@
 # Hi there, I'm Noah! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
-I'm a entrepreneur of sorts and hobby software developer living in Germany.
+I'm a entrepreneur and software developer from Germany.
 
 ### :sparkles: Skills:
 <p align="left">
@@ -12,7 +12,8 @@ Web Design, HTML, CSS, JS, CMS Web Design, Frontend-Design
 - &nbsp;TRIXCLOTHING **-** My own Clothing Brand - www.trixclo.de
 
 ### ☎️ Contact:
--  Discord **-** @1trixa / https://1trixa.de/discord
+-  Discord **-** @1trixa
+-  E-Mail **-** contact@trixclo.de
 
 ### :bar_chart: GitHub stats:
 <p align="center">
