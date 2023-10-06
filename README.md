@@ -8,7 +8,8 @@ Web Design, HTML, CSS, JS, CMS Web Design, Frontend-Design
 </p>
 
 ### :hammer: Recent projects:
-- &nbsp;StyyCraft **-** StyyCraft is a minecraft network. With unique systems + Bedrock & Java support we offer a unique gaming experience.
+- &nbsp;StyyCraft **-** StyyCraft is a minecraft network. With unique systems + Bedrock & Java support we offer a unique gaming experience - styycraft.net
+- &nbsp;TRIXCLOTHING **-** My own Clothing Brand - www.trixclo.de
 
 ### ☎️ Contact:
 -  Discord **-** @1trixa / https://1trixa.de/discord
