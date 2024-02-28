@@ -4,7 +4,7 @@ I'm a entrepreneur and software developer from Germany.
 
 ### :sparkles: Skills:
 <p align="left">
-Web Design, HTML, CSS, JS, CMS Web Design, Frontend-Design, Lua, python, Java & SQL
+Web Design, HTML, CSS, JS, CMS Web Design, Frontend-Design
 </p>
 
 ### :hammer: Recent projects:
