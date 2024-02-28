@@ -9,11 +9,11 @@ Web Design, HTML, CSS, JS, CMS Web Design, Frontend-Design, Lua, python, Java & 
 
 ### :hammer: Recent projects:
 - &nbsp;StyyCraft **-** StyyCraft is a minecraft network. With unique systems + Bedrock & Java support we offer a unique gaming experience - styycraft.net
-- &nbsp;MOONLIT CLOTHING **-** My own Clothing Brand - www.moonlitclo.de
+- &nbsp;Marsways Studios **-** Development Studio - www.marsways.de
 
 ### ☎️ Contact:
 -  Discord **-** @noahtrx
--  E-Mail **-** contact@moonlitclo.de
+-  E-Mail **-** noah@marsways.de
 
 ### :bar_chart: GitHub stats:
 <p align="center">
