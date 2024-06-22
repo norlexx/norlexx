@@ -13,8 +13,8 @@ Web Design, HTML, CSS, Javascript, CMS Web Design, Frontend-Design, electronJS
 - &nbsp;Venxu Technologies **-** German Minecraft server agency - www.venxu.eu
 
 ### ☎️ Contact:
--  Discord **-** @noahtrx
--  E-Mail **-** noah@marsways.de
+-  Discord **-** @bytevenxu
+-  E-Mail **-** noah@venxu.eu
 
 ### :bar_chart: GitHub stats:
 <p align="center">
