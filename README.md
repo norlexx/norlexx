@@ -8,8 +8,7 @@ Web Design, HTML, CSS, Javascript, CMS Web Design, Frontend-Design, electronJS
 </p>
 
 ### :hammer: Recent projects:
-- &nbsp;NotrixMC **-** NotrixMC is my upcoming Minecraft CityBuild server on a new level. Be announced on Discord when we open: https://notrixmc.de/discord
-- &nbsp;StyyCraft **-** StyyCraft is a minecraft network. With unique systems + Bedrock & Java support we offer a unique gaming experience - styycraft.net
+- &nbsp;NotrixMC **-** NotrixMC is my upcoming Minecraft CityBuild server on a new level. Discord: https://notrixmc.de/discord
 - &nbsp;Venxu Technologies **-** German Minecraft server agency - www.venxu.eu
 
 ### ☎️ Contact:
