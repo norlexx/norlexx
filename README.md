@@ -8,12 +8,11 @@ Web Design, HTML, CSS, Java, CMS Web Design, Frontend-Design.
 </p>
 
 ### :hammer: Recent projects:
-- &nbsp;NotrixMC **-** NotrixMC is my upcoming Minecraft CityBuild server on a new level. Discord: https://notrixmc.de/discord
-- &nbsp;Venxu Technologies **-** German Minecraft server agency - www.venxu.eu
+- &nbsp;Astrovio Websolutions **-** German webdesign service (WaaS) - www.astrovio.de
 
 ### ☎️ Contact:
--  Discord **-** @bytevenxu
--  E-Mail **-** noah@venxu.eu
+-  Discord **-** @norlexx
+-  E-Mail **-** noah.mandaus@astrovio.de
 
 ### :bar_chart: GitHub stats:
 <p align="center">
