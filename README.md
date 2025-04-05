@@ -1,10 +1,10 @@
 # Hi there, I'm Noah! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
-I'm a entrepreneur and software developer from Germany.
+I'm a entrepreneur and web dev from Germany.
 
 ### :sparkles: Skills:
 <p align="left">
-Web Design, HTML, CSS, Java, CMS Web Design, Frontend-Design.
+HTML, CSS, Javascript, PHP
 </p>
 
 ### :hammer: Recent projects:
@@ -12,6 +12,7 @@ Web Design, HTML, CSS, Java, CMS Web Design, Frontend-Design.
 
 ### ☎️ Contact:
 -  Discord **-** @norlexx
+-  Website **-** www.norlexx.de
 -  E-Mail **-** noah.mandaus@astrovio.de
 
 ### :bar_chart: GitHub stats:
