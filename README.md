@@ -1,6 +1,6 @@
 # Hi there, I'm Noah! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
-I'm a entrepreneur and web dev from Germany.
+I'm a entrepreneur and web dev from Germany. 
 
 ### :sparkles: Skills:
 <p align="left">
@@ -17,7 +17,7 @@ HTML, CSS, Javascript, PHP
 
 ### :bar_chart: GitHub stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bytevenxu&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=norlexx&show_icons=true&theme=radical" />
 </p>
 
 
