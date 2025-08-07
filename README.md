@@ -8,7 +8,7 @@ HTML, CSS, Javascript, PHP
 </p>
 
 ### :hammer: Recent projects:
-- &nbsp;Marsways Digital Services **-** German software studio - www.marsways.de
+- &nbsp;Marsways Digital Services **-** Software studio - www.marsways.de
 - &nbsp;Astrovio Websolutions **-** German webdesign service - www.astrovio.de
 - &nbsp;BUILDORIA Network **-** Minecraft network - www.buildoria.de
 - &nbsp;MineShopify **-** First all-in-one Minecraft-to-Shopify payment integration plugin- www.mineshopify.com
