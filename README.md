@@ -8,12 +8,17 @@ HTML, CSS, Javascript, PHP
 </p>
 
 ### :hammer: Recent projects:
+- &nbsp;Marsways Digital Services **-** German software studio - www.marsways.de
 - &nbsp;Astrovio Websolutions **-** German webdesign service (WaaS) - www.astrovio.de
+- &nbsp;BUILDORIA Network **-** Minecraft network - www.buildoria.de
+- &nbsp;MineShopify **-** First all-in-one Minecraft-to-Shopify payment integration plugin- www.mineshopify.com
+
+
 
 ### ☎️ Contact:
 -  Discord **-** @norlexx
--  Website **-** www.norlexx.de
--  E-Mail **-** noah.mandaus@astrovio.de
+-  Website **-** www.marsways.de
+-  E-Mail **-** contact@marsways.de
 
 ### :bar_chart: GitHub stats:
 <p align="center">
