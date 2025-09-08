@@ -5,6 +5,8 @@ I'm a entrepreneur and web dev from Germany.
 ### :sparkles: Skills:
 <p align="left">
 HTML, CSS, Javascript, PHP
+Java, SQL, Python, Laravel
+
 </p>
 
 ### :hammer: Recent projects:
